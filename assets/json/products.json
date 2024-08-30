@@ -1,0 +1,66 @@
+[
+  {
+    "featuredImage": "https://www.latitudecoffee.com.au/wp-content/uploads/2020/03/Latitude_Coffee_Blend49.jpg",
+    "images": [],
+    "isActive": true,
+    "_id": "5ebd7a6f3f30880017730772",
+    "category": {
+      "_id": "5eaefa6e648a57077ff65412",
+      "name": "Coffee"
+    },
+    "stockQuantity": 50,
+    "productCreatedAt": "2020-05-14T17:05:51.211Z",
+    "name": "Kenya AA Kii (500g)",
+    "price": "24.50",
+    "headline": "A stunning single origin to run as an espresso or in a long black.",
+    "description": "A stunning single origin to run as an espresso or in a long black. You'll get an almost spicy base with a maple syrup-like finish. A true Sweet n Spicy combination. This coffee has been a stand-out for us in roasting competitions having recently taken home Silver in the espresso category at the Australia International Coffee Awards."
+  },
+  {
+    "featuredImage": "https://www.latitudecoffee.com.au/wp-content/uploads/2020/03/tiger-1229x1536.jpeg",
+    "images": [],
+    "isActive": true,
+    "_id": "5ebd7a6f3f30880017730772",
+    "category": {
+      "_id": "5eaefa6e648a57077ff65412",
+      "name": "Coffee"
+    },
+    "stockQuantity": 20,
+    "productCreatedAt": "2020-05-14T17:05:51.211Z",
+    "name": "Tiger House Blend (1kg)",
+    "price": "30.00",
+    "headline": "This is our 'commercial' blend that we roast for our parent company 'Tiger Coffee'",
+    "description": "This is our 'commercial' blend that we roast for our parent company 'Tiger Coffee' - it's a highly regarding coffee in it's category and took home a Gold & a Bronze medal in the World's Largest coffee roasting competition & conference 'The Golden Bean Awards' in 2018. If you're buying coffee for the office or want to trial it for your store or place of work then this is perfect for you and compliments milk perfectly."
+  },
+  {
+    "featuredImage": "https://www.latitudecoffee.com.au/wp-content/uploads/2020/03/Latitude_Coffee_Blend49.jpg",
+    "images": [],
+    "isActive": true,
+    "_id": "5ebd7a6f3f30880017730772",
+    "category": {
+      "_id": "5eaefa6e648a57077ff65412",
+      "name": "Coffee"
+    },
+    "stockQuantity": 10,
+    "productCreatedAt": "2020-05-14T17:05:51.211Z",
+    "name": "Rwanda Kayambu (500g)",
+    "price": "22.00",
+    "headline": "pleasant cup of coffee with it's full body and notes of stone fruit with a lingering peach tea",
+    "description": "This Rwanda Kayambu Grade 1 makes for an all-round pleasant cup of coffee with it's full body and notes of stone fruit with a lingering peach tea aftertaste."
+  },
+  {
+    "featuredImage": "https://www.latitudecoffee.com.au/wp-content/uploads/2020/03/Latitude_Coffee_BaseCamp.jpg",
+    "images": [],
+    "isActive": true,
+    "_id": "5ebd7a6f3f30880014330772",
+    "category": {
+      "_id": "5eaefa6e648a343077ff65412",
+      "name": "Coffee"
+    },
+    "stockQuantity": 15,
+    "productCreatedAt": "2020-05-14T17:05:51.211Z",
+    "name": "Basecamp Signature (250g)",
+    "price": "18.00",
+    "headline": "Crafted exclusively for our front of house cafe ‘BaseCamp’ this is a serious coffee",
+    "description": "Crafted exclusively for our front of house cafe ‘BaseCamp’ this is a serious coffee – works well and doesn’t get lost in milk. Also makes for a well balanced espresso with the Ethiopian taking the forefront and the Colombian creating a smooth palatable drink."
+  }
+]

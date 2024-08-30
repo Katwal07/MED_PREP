@@ -1,0 +1,31 @@
+[
+  {
+    "description": "",
+    "photo": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/beveragedaily.com/news/r-d/aussie-barista-helps-scientists-to-brew-the-perfect-espresso/10795433-1-eng-GB/Aussie-barista-helps-scientists-to-brew-the-perfect-espresso_wrbm_large.jpg",
+    "_id": "5ebd81933f3088001773077b",
+    "name": "Espresso",
+    "categoryCreatedAt": "2020-05-14T17:36:19.214Z"
+  },
+  {
+    "description": "",
+    "photo": "https://www.coffeedesk.com/blog/wp-content/uploads/2019/07/JJF_3805-1920x1280.jpg",
+    "_id": "5ebd82023f3088001773077c",
+    "name": "Filters",
+    "categoryCreatedAt": "2020-05-14T17:38:10.526Z"
+  },
+  {
+    "description": "",
+    "photo": "https://w0.pngwave.com/png/675/101/chocolate-milk-hot-chocolate-animation-chocolat-png-clip-art.png",
+    "_id": "5ebd82023f308800dfdds3077c",
+    "name": "Milk Based",
+    "categoryCreatedAt": "2020-05-14T17:38:10.526Z"
+  },
+
+  {
+    "description": "",
+    "photo": "https://www.latitudecoffee.com.au/wp-content/uploads/2020/03/latitude_lanyard.jpg",
+    "_id": "5eaefa6e648a57077ff65412",
+    "name": "Accessories",
+    "categoryCreatedAt": "2020-05-03T17:07:58.558Z"
+  }
+]

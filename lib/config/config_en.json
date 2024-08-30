@@ -1,0 +1,35 @@
+{
+  "searchSuggestion": [],
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "layout": "bannerImage"
+    },
+    {
+      "layout": "trendingItems"
+    },
+
+    {
+      "layout": "categories"
+    },
+    {
+      "layout": "mostPopular"
+    },
+    {
+      "layout": "photoGallery"
+    },
+
+    {
+      "layout": "videoTutorials"
+    },
+
+    {
+      "layout": "footer"
+    }
+  ]
+}

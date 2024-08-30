@@ -1,0 +1,1 @@
+enum ExamModeState { Exam, Practice }

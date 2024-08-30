@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467552885441",
+    "project_id": "medapp-baf92",
+    "storage_bucket": "medapp-baf92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467552885441:android:5b38022dfa65e4a1705240",
+        "android_client_info": {
+          "package_name": "com.example.med_prep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjkJdaTW2iv0uBGX3cDel-FCTxe_VaaFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

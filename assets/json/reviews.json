@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "102",
+        "review": "This product is really awesome.",
+        "rate": "4.1",
+        "createdAt": "2020-05-14T17:05:51.211Z",
+        "user": {
+            "_id": "1000",
+            "name": "Jeevan Aryal",
+            "email": "jiwanaryal2050@gmail.com",
+            "photoUrl": "https://api.adorable.io/avatars/400/41ab058831a5647aa59a70f236322771.png"
+        }
+    },
+    {
+        "_id": "102",
+        "review": "I loved this case, it is strurdy and lightweight. Only issue is that it smudges.",
+        "rate": "4.7",
+        "createdAt": "2020-05-14T17:05:51.211Z",
+        "user": {
+            "_id": "1000",
+            "name": "Nick Wilson",
+            "email": "nickwilson@gmail.com",
+            "photoUrl": "https://api.adorable.io/avatars/400/6a16716390838fb4ac993c9263e87d9c.png"
+        }
+    },
+    {
+        "_id": "102",
+        "review": "I am very fortunate that Hyatt Regency has been in our locality that I am able use this facility since it’s inception in 2000. This has been a great place to my young kids for swimming and tasty and healthy food. It’s been great time with Hyatt Regency last 20 years. All the staff are kind and friendly behavior specially: Amit, Sunita Suman,Rohit,Dipak,manju,Binu Narayan and Chef Ajay.",
+        "rate": "4.9",
+        "createdAt": "2020-05-14T17:05:51.211Z",
+        "user": {
+            "_id": "1000",
+            "name": "Kelsing Thaper",
+            "email": "kelsingTHaper@gmail.com",
+            "photoUrl": "https://api.adorable.io/avatars/400/a75a5586e6687ff40d05a95037278858.png"
+        }
+    }
+]
